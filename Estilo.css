@@ -27,7 +27,7 @@ h1{
         text-shadow: 5px 5px whitesmoke;
         
  }
-.tarjeta{
+.tarjeta{       
     max-width:300px;
     margin: 50px auto;
     border: 2px solid blueviolet;
@@ -37,7 +37,7 @@ h1{
 }
 .imagencard{
     width: 100%;  
-    box-sizing: border-box;    
+    box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
